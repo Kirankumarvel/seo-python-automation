@@ -13,6 +13,7 @@ This On-Page SEO Analysis Tool is a Python script that checks various SEO metric
 - Analyzes schema data (JSON-LD)
 - Checks for hreflang tags
 - Logs Open Graph and Twitter Card metadata
+- Placeholder for page speed metrics (LCP, INP, CLS)
 
 ## Key Libraries
 
@@ -21,6 +22,7 @@ This project uses the following Python libraries:
 - `requests`: For sending HTTP requests to retrieve web pages.
 - `beautifulsoup4`: For parsing HTML content and extracting data.
 - `pandas`: For handling data and exporting results to CSV files.
+- `json`: For handling JSON data structures.
 
 ## Installation
 
@@ -62,6 +64,7 @@ The generated `output_results.csv` will contain columns for:
 - Meta Description
 - Meta Keywords
 - Robots Tag
+- Canonical Tag
 - Word Count
 - H1 Count
 - Total Links
@@ -71,6 +74,7 @@ The generated `output_results.csv` will contain columns for:
 - Images Without Alt
 - Images Without Title
 - Schema Count
+- Schema Types
 - Hreflang Tags
 - Open Graph Tags
 - Twitter Card Tags
@@ -94,4 +98,3 @@ While executing the script, you may encounter the following errors:
 ## License
 
 This project is open-source and available under the MIT License.
-
