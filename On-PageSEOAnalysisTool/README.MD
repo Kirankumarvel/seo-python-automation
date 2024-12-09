@@ -94,6 +94,4 @@ While executing the script, you may encounter the following errors:
 ## License
 
 This project is open-source and available under the MIT License.
-```
 
-You can update your `README.md` file with the above content to include the detailed instructions and information about the On-Page SEO Analysis Tool.
