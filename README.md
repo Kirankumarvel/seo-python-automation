@@ -38,6 +38,11 @@ This repository contains tools and scripts for SEO automation using Python.
    ```
 
 
+![GitHub license](https://img.shields.io/github/license/Kirankumarvel/seo-python-automation)
+![CI](https://github.com/Kirankumarvel/seo-python-automation/actions/workflows/main.yml/badge.svg)
+![Codecov](https://codecov.io/gh/Kirankumarvel/seo-python-automation/branch/main/graph/badge.svg)
+![Custom Badge](https://img.shields.io/badge/custom-badge-blue)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Kirankumarvel_seo-python-automation&metric=alert_status)](https://sonarcloud.io/dashboard?id=Kirankumarvel_seo-python-automation)
 
 ## License
 
