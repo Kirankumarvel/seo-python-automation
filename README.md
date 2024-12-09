@@ -37,7 +37,7 @@ This repository contains tools and scripts for SEO automation using Python.
    python seo_analysis.py
    ```
 
-![GitHub license](https://img.shields.io/github/license/Kirankumarvel/seo-python-automation)
+
 
 ## License
 
