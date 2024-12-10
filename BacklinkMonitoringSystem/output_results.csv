@@ -1,0 +1,3 @@
+Backlink,Status,Response Code,Domain Authority,Page Authority,Spam Score
+https://www.example.com,Indexed,200,45,30,5
+https://www.example.org,noindex,200,50,35,10
